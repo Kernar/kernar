@@ -49,3 +49,9 @@ inteligencia emocional
 | ls | vemos lo que contiene el directorio actual  |
 | df | muestra el espacio libre en la PC |
 |  whoami | el nombre del usuario   |
+
+### Este alias muestra los comandos mas usados
+```
+C SHELL
+alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c |sort -nr | head -n 10'
+```
