@@ -24,19 +24,18 @@ Here are some ideas to get you started:
 - CSS3
 - JAVASCRIPT
 - PYTHON
-- REACT 
 - JAVA
 ### MIS ESTUDIOS Y HOBBIES
 - 🌱 Estudiante de ingenieria de softaware
--  🌱Cursos de desarrollo web en linea con Undefined Shell
+- ⚡ Cursos de desarrollo web en linea con Undefined Shell
 - 📫Me encanta la lectura 
 
 
 HABILIDADES
 ```
-amabilidad
-productividad
-inteligencia emocional
+😄amabilidad
+😄productividad
+👯inteligencia emocional
 ```
 
 **estudio del bootcamp**
