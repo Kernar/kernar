@@ -48,9 +48,10 @@ HABILIDADES
 | HTML/CSS | 50/100  |
 | PYTHON | 40/100 |
 
-
+<!---
 ### Este alias muestra los comandos mas usados
 ```
 C SHELL
 alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c |sort -nr | head -n 10'
 ```
+--->
