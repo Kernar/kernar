@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Eduardo Aldhair
 
-### Hola, soy practicante a desarrolador de software  de *Peru*
+### Hola, soy practicante a desarrollador de software  de *Peru*
 *full-stack javascript developer*
 ## Me dedico al desarrollo de aplicaciones web con tecnologias como
 - HTML5
@@ -38,16 +38,16 @@ HABILIDADES
 👯inteligencia emocional
 ```
 
-**estudio del bootcamp**
-#### 1° semana
-| comandos | terminal |
+**Lenguajes aprendidos**
+#### 
+| LENGUAJES | NIVEL |
 | ------------------| ----------------------|
-|  mkdir | crear un nuevo directorio|     
-| cd  | puedes avanza o retroceder en los directorios  |
-| rm | remover archivos, cuidado con este comando  |
-| ls | vemos lo que contiene el directorio actual  |
-| df | muestra el espacio libre en la PC |
-|  whoami | el nombre del usuario   |
+|  JAVA | 15/100|     
+| C#  | 30/100  |
+| JAVASCRIPT | 30/100  |
+| HTML/CSS | 50/100  |
+| PYTHON | 40/100 |
+
 
 ### Este alias muestra los comandos mas usados
 ```
