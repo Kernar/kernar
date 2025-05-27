@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Eduardo Aldhair
 
-### Hola, soy practicante a desarrollador de software  de *Peru*
+### Hola, soy practicante a desarrollador de software 
 *full-stack javascript developer*
 ## Me dedico al desarrollo de aplicaciones web con tecnologias como
 - HTML5
