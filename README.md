@@ -15,7 +15,7 @@ Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con e
 **Backend & DB**
 - ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- Python / Java
+- Python / Java / C# (.NET)
 
 **Diseño y Otros**
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
