@@ -1,14 +1,15 @@
-# Hola, soy Aldhair Huamani 👋
+# Hello World!!!, soy Aldhair Huamani 👋
 ### Desarrollador de Software | Fullstack Javascript Focus
 
-Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con experiencia transformando ideas en productos digitales, desde el diseño en **Figma** hasta el despliegue de arquitecturas robustas con **Angular** y **NestJS**.
+Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con experiencia transformando ideas en productos digitales, desde el diseño en **Figma** hasta el despliegue de arquitecturas robustas con **Angular**, **React** y **NestJS**.
 
 ---
 
 ### 🚀 Tecnologías y Herramientas
 
 **Frontend**
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - HTML5 / CSS3 / Bootstrap / Tailwind
 
 **Backend & DB**
@@ -34,6 +35,6 @@ Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con e
 ---
 
 ### 📫 Contacto
-- **LinkedIn:** [Tu Enlace Aquí]
+- **LinkedIn:** www.linkedin.com/in/aldhair-dev
 - **Email:** aldhairhdlc@gmail.com
 - **Ubicación:** Lima, Perú
