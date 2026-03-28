@@ -1,57 +1,39 @@
-### Hi there 👋
+# Hola, soy Aldhair Huamani 👋
+### Desarrollador de Software | Fullstack Javascript Focus
 
-<!--
-**Kernar/kernar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con experiencia transformando ideas en productos digitales, desde el diseño en **Figma** hasta el despliegue de arquitecturas robustas con **Angular** y **NestJS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías y Herramientas
 
-# Eduardo Aldhair
+**Frontend**
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- HTML5 / CSS3 / Bootstrap / Tailwind
 
-### Hola, soy practicante a desarrollador de software 
-*full-stack javascript developer*
-## Me dedico al desarrollo de aplicaciones web con tecnologias como
-- HTML5
-- CSS3
-- JAVASCRIPT
-- PYTHON
-- JAVA
-### MIS ESTUDIOS Y HOBBIES
-- 🌱 Estudiante de ingenieria de softaware
-- ⚡ Cursos de desarrollo web en linea con Undefined Shell
-- 📫Me encanta la lectura 
+**Backend & DB**
+- ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- Python / Java
 
+**Diseño y Otros**
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- Git / GitHub / QA Testing / Metodologías Ágiles
 
-HABILIDADES
-```
-😄amabilidad
-😄productividad
-👯inteligencia emocional
-```
+---
 
-**Lenguajes aprendidos**
-#### 
-| LENGUAJES | NIVEL |
-| ------------------| ----------------------|
-|  JAVA | 15/100|     
-| C#  | 30/100  |
-| JAVASCRIPT | 30/100  |
-| HTML/CSS | 50/100  |
-| PYTHON | 40/100 |
+### 🛠️ Experiencia Destacada
+- **Proyecto Geunica:** Desarrollo de software privado de gestión educativa utilizando Angular y PostgreSQL.
+- **Freelance:** Creación de sitios web funcionales para pequeñas empresas (Farmacias/Veterinarias).
 
-<!---
-### Este alias muestra los comandos mas usados
-```
-C SHELL
-alias mostused='history | awk '\''{print $2}'\''| sort | uniq -c |sort -nr | head -n 10'
-```
---->
+---
+
+### 📈 Estadísticas de GitHub
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Kernar&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contacto
+- **LinkedIn:** [Tu Enlace Aquí]
+- **Email:** aldhairhdlc@gmail.com
+- **Ubicación:** Lima, Perú
