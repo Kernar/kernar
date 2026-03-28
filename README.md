@@ -8,7 +8,7 @@ Soy un apasionado por crear soluciones web eficientes y escalables. Cuento con e
 ### 🚀 Tecnologías y Herramientas
 
 **Frontend**
--![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+- ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 - HTML5 / CSS3 / Bootstrap / Tailwind
 
